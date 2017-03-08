@@ -1,0 +1,6 @@
+c:\users\james handshoe\documents\visual studio 2015\Projects\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
+C:\Users\James Handshoe\Documents\Visual Studio 2015\Projects\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+C:\Users\James Handshoe\Documents\Visual Studio 2015\Projects\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+C:\Users\James Handshoe\Documents\Visual Studio 2015\Projects\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csprojResolveAssemblyReference.cache
+C:\Users\James Handshoe\Documents\Visual Studio 2015\Projects\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+C:\Users\James Handshoe\Documents\Visual Studio 2015\Projects\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.pdb

@@ -1,0 +1,6 @@
+c:\users\james handshoe\documents\visual studio 2015\Projects\TimerExample\TimerExample\bin\Debug\TimerExample.exe.config
+c:\users\james handshoe\documents\visual studio 2015\Projects\TimerExample\TimerExample\bin\Debug\TimerExample.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\TimerExample\TimerExample\bin\Debug\TimerExample.pdb
+c:\users\james handshoe\documents\visual studio 2015\Projects\TimerExample\TimerExample\obj\Debug\TimerExample.csprojResolveAssemblyReference.cache
+c:\users\james handshoe\documents\visual studio 2015\Projects\TimerExample\TimerExample\obj\Debug\TimerExample.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\TimerExample\TimerExample\obj\Debug\TimerExample.pdb

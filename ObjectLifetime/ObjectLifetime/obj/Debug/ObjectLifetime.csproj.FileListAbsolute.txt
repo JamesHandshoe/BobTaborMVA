@@ -1,0 +1,6 @@
+c:\users\james handshoe\documents\visual studio 2015\Projects\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe.config
+c:\users\james handshoe\documents\visual studio 2015\Projects\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.pdb
+c:\users\james handshoe\documents\visual studio 2015\Projects\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csprojResolveAssemblyReference.cache
+c:\users\james handshoe\documents\visual studio 2015\Projects\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.pdb

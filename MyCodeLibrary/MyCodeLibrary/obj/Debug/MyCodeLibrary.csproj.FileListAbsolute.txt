@@ -1,0 +1,4 @@
+c:\users\james handshoe\documents\visual studio 2015\Projects\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.dll
+c:\users\james handshoe\documents\visual studio 2015\Projects\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.pdb
+c:\users\james handshoe\documents\visual studio 2015\Projects\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.dll
+c:\users\james handshoe\documents\visual studio 2015\Projects\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.pdb

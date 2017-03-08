@@ -1,0 +1,5 @@
+c:\users\james handshoe\documents\visual studio 2015\Projects\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+c:\users\james handshoe\documents\visual studio 2015\Projects\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+c:\users\james handshoe\documents\visual studio 2015\Projects\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb

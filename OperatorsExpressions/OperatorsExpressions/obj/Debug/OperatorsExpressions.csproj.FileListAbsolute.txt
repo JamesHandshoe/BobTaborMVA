@@ -1,0 +1,6 @@
+c:\users\james handshoe\documents\visual studio 2015\Projects\OperatorsExpressions\OperatorsExpressions\bin\Debug\OperatorsExpressions.exe.config
+c:\users\james handshoe\documents\visual studio 2015\Projects\OperatorsExpressions\OperatorsExpressions\bin\Debug\OperatorsExpressions.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\OperatorsExpressions\OperatorsExpressions\bin\Debug\OperatorsExpressions.pdb
+c:\users\james handshoe\documents\visual studio 2015\Projects\OperatorsExpressions\OperatorsExpressions\obj\Debug\OperatorsExpressions.csprojResolveAssemblyReference.cache
+c:\users\james handshoe\documents\visual studio 2015\Projects\OperatorsExpressions\OperatorsExpressions\obj\Debug\OperatorsExpressions.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\OperatorsExpressions\OperatorsExpressions\obj\Debug\OperatorsExpressions.pdb

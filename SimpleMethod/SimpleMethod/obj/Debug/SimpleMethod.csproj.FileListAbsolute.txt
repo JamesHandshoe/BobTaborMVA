@@ -1,0 +1,5 @@
+c:\users\james handshoe\documents\visual studio 2015\Projects\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+c:\users\james handshoe\documents\visual studio 2015\Projects\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.pdb
+c:\users\james handshoe\documents\visual studio 2015\Projects\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.pdb

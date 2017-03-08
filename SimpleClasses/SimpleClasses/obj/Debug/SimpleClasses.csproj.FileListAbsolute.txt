@@ -1,0 +1,6 @@
+c:\users\james handshoe\documents\visual studio 2015\Projects\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe.config
+c:\users\james handshoe\documents\visual studio 2015\Projects\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.pdb
+c:\users\james handshoe\documents\visual studio 2015\Projects\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csprojResolveAssemblyReference.cache
+c:\users\james handshoe\documents\visual studio 2015\Projects\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.pdb

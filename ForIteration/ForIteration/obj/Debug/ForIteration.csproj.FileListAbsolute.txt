@@ -1,0 +1,5 @@
+c:\users\james handshoe\documents\visual studio 2015\Projects\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+c:\users\james handshoe\documents\visual studio 2015\Projects\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+c:\users\james handshoe\documents\visual studio 2015\Projects\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\ForIteration\ForIteration\obj\Debug\ForIteration.pdb

@@ -1,0 +1,5 @@
+c:\users\james handshoe\documents\visual studio 2015\Projects\DatesandTimes\DatesandTimes\bin\Debug\DatesandTimes.exe.config
+c:\users\james handshoe\documents\visual studio 2015\Projects\DatesandTimes\DatesandTimes\bin\Debug\DatesandTimes.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\DatesandTimes\DatesandTimes\bin\Debug\DatesandTimes.pdb
+c:\users\james handshoe\documents\visual studio 2015\Projects\DatesandTimes\DatesandTimes\obj\Debug\DatesandTimes.exe
+c:\users\james handshoe\documents\visual studio 2015\Projects\DatesandTimes\DatesandTimes\obj\Debug\DatesandTimes.pdb
